@@ -1,0 +1,10 @@
+﻿  proj5.cpp
+C:\Users\Marc\source\repos\proj5\proj5\proj5.cpp(120,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marc\source\repos\proj5\proj5\proj5.cpp(125,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marc\source\repos\proj5\proj5\proj5.cpp(127,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marc\source\repos\proj5\proj5\proj5.cpp(155,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marc\source\repos\proj5\proj5\proj5.cpp(176,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marc\source\repos\proj5\proj5\proj5.cpp(189,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marc\source\repos\proj5\proj5\proj5.cpp(36): warning C4715: 'findCity': not all control paths return a value
+C:\Users\Marc\source\repos\proj5\proj5\proj5.cpp(53): warning C4715: 'findNum': not all control paths return a value
+  proj5.vcxproj -> C:\Users\Marc\source\repos\proj5\Debug\proj5.exe

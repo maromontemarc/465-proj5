@@ -1,0 +1,6 @@
+Erie Shanghai 1200
+Erie Tokyo 500
+Tokyo Beijing 200
+Beijing Shanghai 300
+Tokyo Hongkong 300
+Hongkong Shanghai 100
